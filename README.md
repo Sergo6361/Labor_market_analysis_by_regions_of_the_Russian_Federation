@@ -12,3 +12,5 @@
 Используемые инструменты: Analytic Workspace BI.
 
 Результат: подготовлен дашборд, который соответствует техническому заданию заказчика».
+
+Ссылка на дашборд: https://aw-demo.ru/public/dashboard/QNPdOvMSNFLBWHJPjI-TZaRAy7r97p48
